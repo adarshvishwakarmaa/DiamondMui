@@ -20,7 +20,7 @@ To run the project, navigate to the project directory and follow these steps:
     
     npm install
     npm run dev
-    ```
+ 
 
 
 ## Help
